@@ -11,13 +11,13 @@ Acredito na importância de sempre estar aprendendo, explorando novas tecnologia
 <p align="left">
 
 <p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
-        <img    
-            alt="Email: gustavo.imotowk@gmail.com" 
-            title="Email: gustavo.imotowk@gmail.com" 
-            src="https://custom-icon-badges.demolab.com/badge/-gustavo.imotowk@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white"
-        />
-    </a>
+    <a href="mailto:gustavo.imotowk@gmail.com">
+    <img
+        alt="Email: gustavo.imotowk@gmail.com"
+        title="Email: gustavo.imotowk@gmail.com"
+        src="https://custom-icon-badges.demolab.com/badge/-gustavo.imotowk@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white"
+    />
+</a>
         <img 
             alt="Curitiba-PR" 
             title="Curitiba-PR" 
