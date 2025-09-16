@@ -24,14 +24,14 @@ Acredito na importância de sempre estar aprendendo, explorando novas tecnologia
             src="https://custom-icon-badges.demolab.com/badge/Curitiba-BRA-green?style=for-the-badge&logo=location&logoColor=white"
         />
     </a> 
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <a href="https://github.com/Gustavoimoto?tab=repositories">
         <img 
             alt="Repositórios" 
             title="Repositórios" 
             src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="(https://github.com/Gustavoimoto?tab=repositories">
         <img 
             alt="Pull Request" 
             title="Pull Request" 
